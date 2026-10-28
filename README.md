@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Cloud-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Cloud-Platform?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Cloud-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Cloud-Platform?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Cloud-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Cloud-Platform?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Cloud-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Enterprise-Cloud-Platform?style=flat-square&color=rose" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Cloud-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Enterprise-Cloud-Platform?style=flat-square&color=green" alt="License" /></a>
@@ -70,7 +70,7 @@ The table below catalogs premier enterprise cloud providers and hosted enterpris
 
 The open-source enterprise cloud ecosystem empowers teams to eliminate vendor lock-in, host sovereign PaaS clouds on bare metal or colocation facilities, and orchestrate low-code applications without recurring per-seat penalties.
 
-Every repository is listed below and sorted strictly by **GitHub Star Count (descending)**, with direct links to stargazers.
+Every repository is listed below and sorted strictly by **GitHub Stars_Count (descending)**, with direct links to stargazers.
 
 ### 🚀 Self-Hosted PaaS, Container & Cloud Infrastructure
 
@@ -188,7 +188,7 @@ Contributions from cloud architects, DevOps engineers, and platform builders are
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a descriptive feature branch (`git checkout -b feature/add-new-cloud-platform`).
-3. 📝 Add or update entries according to the established structure (ensure specific pricing/tier metrics, star badges, and official links).
+3. 📝 Add or update entries according to the established structure (ensure specific pricing/tier metrics, Stars_Badges, and official links).
 4. 📬 Submit a clean Pull Request with a succinct explanation of the changes.
 
 Please consult [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for complementary curated enterprise software lists.
